@@ -1,0 +1,14 @@
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\obj\Debug\net6.0\BT Tuần 3_HTMT.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\obj\Debug\net6.0\BT Tuần 3_HTMT.AssemblyInfoInputs.cache
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\obj\Debug\net6.0\BT Tuần 3_HTMT.AssemblyInfo.cs
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\obj\Debug\net6.0\BT Tuần 3_HTMT.csproj.CoreCompileInputs.cache
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\bin\Debug\net6.0\BT Tuần 3_HTMT.exe
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\bin\Debug\net6.0\BT Tuần 3_HTMT.deps.json
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\bin\Debug\net6.0\BT Tuần 3_HTMT.runtimeconfig.json
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\bin\Debug\net6.0\BT Tuần 3_HTMT.dll
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\bin\Debug\net6.0\BT Tuần 3_HTMT.pdb
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\obj\Debug\net6.0\BT Tuần 3_HTMT.dll
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\obj\Debug\net6.0\refint\BT Tuần 3_HTMT.dll
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\obj\Debug\net6.0\BT Tuần 3_HTMT.pdb
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\obj\Debug\net6.0\BT Tuần 3_HTMT.genruntimeconfig.cache
+E:\OneDrive\Phuc\Desktop\HTMT\BT Tuần 3_HTMT\obj\Debug\net6.0\ref\BT Tuần 3_HTMT.dll
